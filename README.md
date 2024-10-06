@@ -31,32 +31,32 @@
 ---
 
 <div align="center">
-  <a href="https://antonmelentiev.com" target="_blank"style="font-size: 32px; font-family: monospace; font-weight: bold;">https://AntonMelentiev.com</a>
+  <a href="https://antonmelentiev.com" title="Personal web site" target="_blank" style="font-size: 32px; font-family: monospace; font-weight: bold;">https://AntonMelentiev.com</a>
 
   <br>
   <br>
 
-  <a href="https://www.linkedin.com/in/antonmelentiev" target="_blank">
+  <a href="https://www.linkedin.com/in/antonmelentiev" title="Linkedin" target="_blank">
     <img src="https://antonmelentiev.com/icons/linkedin.png" alt="Linkedin" style="height: 32px; width: 32px; margin-right: 10px;">
   </a>
 
-  <a href="mailto:info@AntonMelentiev.com" target="_blank">
+  <a href="mailto:info@AntonMelentiev.com" title="e-mail" target="_blank">
     <img src="https://antonmelentiev.com/icons/email.png" alt="info@AntonMelentiev.com" style="height: 32px; width: 32px; margin-right: 10px;">
   </a>
 
-  <a href="tel:+48500358654" target="_blank">
+  <a href="tel:+48500358654" title="Tel" target="_blank">
     <img src="https://antonmelentiev.com/icons/mobile.png" alt="+48 500 358 654" style="height: 32px; width: 32px; margin-right: 10px;">
   </a>
 
-  <a href="https://signal.me/#eu/bVdGILLFxevL8hB4N8HiCwmw4NW2zgTydzIqTEAJ-EwCW-VddFRDQ49RJe9kzKMz" target="_blank">
+  <a href="https://signal.me/#eu/bVdGILLFxevL8hB4N8HiCwmw4NW2zgTydzIqTEAJ-EwCW-VddFRDQ49RJe9kzKMz" title="Signal" target="_blank">
     <img src="https://antonmelentiev.com/icons/signal.png" alt="Signal" style="height: 32px; width: 32px; margin-right: 10px;">
   </a>
 
-  <a href="https://t.me/AntonMelentiev" target="_blank">
+  <a href="https://t.me/AntonMelentiev" title="Telegram" target="_blank">
     <img src="https://antonmelentiev.com/icons/telegram.png" alt="Telegram" style="height: 32px; width: 32px; margin-right: 10px;">
   </a>
 
-  <a href="https://join.skype.com/invite/dW47Mg1I8EDE" target="_blank">
+  <a href="https://join.skype.com/invite/dW47Mg1I8EDE" title="Skype" target="_blank">
     <img src="https://antonmelentiev.com/icons/skype.png" alt="Skype" style="height: 32px; width: 32px; margin-right: 10px;">
   </a>
 
