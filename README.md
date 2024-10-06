@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Anton%20Melentiev&textBg=false&desc=QA%20Manager%20|%20QA%20Lead%20|%20Head%20of%20QA%20|%20Test%20Automation%20Expert%20|%20ISTQB%20Full%20Advanced%20Certified&descAlignY=60&descSize=16&fontAlignY=30" alt="Anton Melentiev">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=c46b06&text=Anton%20Melentiev&textBg=false&desc=QA%20Manager%20|%20QA%20Lead%20|%20Head%20of%20QA%20|%20Test%20Automation%20Expert%20|%20ISTQB%20Full%20Advanced%20Certified&descAlignY=60&descSize=16&fontAlignY=30" alt="Anton Melentiev">
 </div>
 
 ---
